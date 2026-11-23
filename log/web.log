@@ -1,0 +1,37 @@
+2026-04-23 14:56:50,272 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：登录成功
+2026-04-23 14:56:59,280 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：密码错误1次,达到3次将锁定账户
+2026-04-23 14:57:08,606 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：用户不存在
+2026-04-23 15:17:29,536 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：登录成功
+2026-04-23 15:17:39,985 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：密码错误1次,达到3次将锁定账户
+2026-04-23 15:17:50,272 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：用户不存在
+2026-04-23 15:21:19,187 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：登录成功
+2026-04-23 15:21:33,715 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：密码错误1次,达到3次将锁定账户
+2026-04-23 15:21:54,139 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：用户不存在
+2026-04-23 16:46:02,967 ERROR [page_base.py(fd_element:33)] - 元素定位超时，定位信息：('id', 'keywords')，错误详情：Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c7ef0245+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7c7ef02b0+14740]
+	chromedriver!(No symbol) [0x7ff7c7c5d7cd]
+	chromedriver!(No symbol) [0x7ff7c7cb6c4e]
+	chromedriver!(No symbol) [0x7ff7c7cb6f5c]
+	chromedriver!(No symbol) [0x7ff7c7d07cc7]
+	chromedriver!(No symbol) [0x7ff7c7d04818]
+	chromedriver!(No symbol) [0x7ff7c7ca9018]
+	chromedriver!(No symbol) [0x7ff7c7ca9f03]
+	chromedriver!GetHandleVerifier [0x7ff7c82058f9+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7c81ffe46+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7c82230b2+347542]
+	chromedriver!GetHandleVerifier [0x7ff7c7f0d3d5+31865]
+	chromedriver!GetHandleVerifier [0x7ff7c7f1600c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7c7ef9634+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7c7ef97e6+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7c7ede2f7+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ff80315e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff80440c3fc+2c]
+
+2026-04-23 16:46:24,624 INFO [test_credit.py(test_01_credit_success:24)] - 额度申请结果：提交申请成功
+2026-04-23 16:54:08,797 INFO [test_credit.py(test_00_credit_success:44)] - 额度申请结果：提交申请成功
+2026-04-23 17:12:24,582 INFO [test_credit.py(test_00_credit_success:36)] - 额度申请结果：提交申请成功
+2026-04-23 18:16:37,754 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：登录成功
+2026-04-23 18:17:19,534 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：密码错误1次,达到3次将锁定账户
+2026-04-23 18:17:48,157 INFO [test_login_ex.py(test_00_login:27)] - 执行结果：用户不存在

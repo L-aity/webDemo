@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login_ex.py:27 执行结果：密码错误1次,达到3次将锁定账户
